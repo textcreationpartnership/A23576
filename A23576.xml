@@ -1,0 +1,489 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>This is the cronycle of all the kyng[es] names that haue ben in  Englande, and how many yeres they reygned and how many saynt[es] &amp; martyrs haue ben i[n] this lande, and shewith the hole su[m]me, from the makyng of the worlde tyll the co[m]mynge of Brute, ye whiche is        iiii.M.lxxvii. yeres and fro[m] the co[m]mynge of Brute to the Incarnation of Christe is M.C.xxii yeres, &amp; from the Incarnacion to the xxiiii yere of Kynge Henry the vi is M.CCCC.xlvi yeres.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1518</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A23576</idno>
+            <idno type="STC">STC 9983.3</idno>
+            <idno type="STC">ESTC S2614</idno>
+            <idno type="EEBO-CITATION">24383412</idno>
+            <idno type="OCLC">ocm 24383412</idno>
+            <idno type="VID">27599</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A23576)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 27599)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1850:55)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>This is the cronycle of all the kyng[es] names that haue ben in  Englande, and how many yeres they reygned and how many saynt[es] &amp; martyrs haue ben i[n] this lande, and shewith the hole su[m]me, from the makyng of the worlde tyll the co[m]mynge of Brute, ye whiche is        iiii.M.lxxvii. yeres and fro[m] the co[m]mynge of Brute to the Incarnation of Christe is M.C.xxii yeres, &amp; from the Incarnacion to the xxiiii yere of Kynge Henry the vi is M.CCCC.xlvi yeres.</title>
+               </titleStmt>
+               <extent>[15] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Imprinted by Rychard Pynson ...,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>[1518?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Second part, in verse, has special t.p.: The cronycle of all the kynges names that haue reygned in Englande syth the conquest of Wyllyam Conqueror.</note>
+                  <note>Imprint from colophon; date of imprint suggested by STC (2nd ed.).</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>T.p. contains illustration.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Kings and rulers.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="chronicle_of_pre-Conquest_kings_of_Britain">
+            <pb facs="tcp:27599:1"/>
+            <!-- PDF PAGE 22 -->
+            <pb facs="tcp:27599:1"/>
+            <!-- PDF PAGE 22 -->
+            <argument>
+               <p>¶ This is the Cronycle of all the kyngꝭ names <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat haue ben in Englande: and how many yeres they reygned / and how many ſayntꝭ &amp; martyrs haue ben i<g ref="char:cmbAbbrStroke">̄</g> this lande: and ſhe<g ref="char:EOLhyphen"/>with the hole ſu<g ref="char:cmbAbbrStroke">̄</g>me / from the makyng of the worlde tyll the co<g ref="char:cmbAbbrStroke">̄</g>mynge of Brute: y<hi rend="sup">e</hi> whiche is .iiii.M.lxxvii. yeres / and fro the co<g ref="char:cmbAbbrStroke">̄</g>mynge of Brute to the Incarnacion of Chriſte is M.C.xxii. yeres: &amp; fro the Incarnacion to the .xxiiii. yere of kynge Henry the .vi. is .M.CCCC.xlvi. yeres.</p>
+            </argument>
+            <head>
+               <figure/>
+            </head>
+            <pb facs="tcp:27599:2"/>
+            <!-- PDF PAGE 23 -->
+            <head>
+               <figure>
+                  <figDesc>depiction of a king with sword and orb</figDesc>
+               </figure>
+            </head>
+            <pb facs="tcp:27599:2"/>
+            <!-- PDF PAGE 23 -->
+            <head>THis is the Cronycle of all the kyngꝭ names and how many yeres they reygned and how many ſayntꝭ &amp; martyrs haue ben in this lande.</head>
+            <div type="part">
+               <p>¶ Brute came after the makynge of the <abbr>world</abbr> into the lande of Albyon / in the tyme that Ely the Preſt of the lawe was in the la<g ref="char:cmbAbbrStroke">̄</g>de of Iſrael .iiii.M.lxxvii. yeres.</p>
+               <p>¶ Newe Troy (that now is callyd London) was fou<g ref="char:cmbAbbrStroke">̄</g>dyd by the makynge of Brute / after y<hi rend="sup">e</hi> makynge of the worlde .iiii.M.C.xxiiii. yere.</p>
+               <p>¶ Rome was was foundyd by Remus &amp; Romulus iiii.M.iiii.C.lxxxiiii. yere.</p>
+               <p>¶ Ieſu Chriſte was conceyuyd by the holy goſte in the mayde<g ref="char:cmbAbbrStroke">̄</g> Marie on a fryday: in the tyme of kynge Kamelyn was kynge of Brytayne: the .xv. daye of Marche: after the makynge of the worlde .v.M.C.lxxxxix. yere.</p>
+               <p>¶ Ieſu Chriſte was borne / whan his mother was xiiii. yere olde on a ſonday / the .xxv. day of Decem<g ref="char:EOLhyphen"/>ber / in the ſame yere: after the makynge of y<hi rend="sup">e</hi> worlde v.M.C.lxxxxix. yere.</p>
+               <p>¶ Saynt Iohn<g ref="char:cmbAbbrStroke">̄</g> the Baptyſte was hedyd the .xxv. day of Auguſte after the Incarnacion .xxxii. yere.</p>
+               <p>¶ Ieſu Chriſte ſuffred deth on a fryday the .xv. day of Marche: after his incarnacion .xxxiii. yere</p>
+               <p>¶ Saynt Stephen was martyred the thirde daye of Auguſt: after the Incarnacion. xxxiii. yere.</p>
+               <p>
+                  <pb facs="tcp:27599:3"/>
+                  <!-- PDF PAGE 24 -->
+¶ Saynt Paule was co<g ref="char:cmbAbbrStroke">̄</g>uerted the .xxv. day of Ia<g ref="char:EOLhyphen"/>nuary after the Incarnacion .xxxiiii. yere.</p>
+               <p>¶ Our lady Mary was taken into heuen the .xv. day of Auguſt in the .lx. yere of her age: after the In<g ref="char:EOLhyphen"/>carnacion .xlv. yere.</p>
+               <p>¶ Saynt Longlus was martyred after the Incar<g ref="char:EOLunhyphen"/>nacion .lvii. yere.</p>
+               <p>¶ Saynt Peter &amp; Paule were martyred the .xxix. day of Iune: after the Incarnacion .lxix. yere.</p>
+               <p>¶ Lucy the kynge of Brytayn<g ref="char:cmbAbbrStroke">̄</g> becom chriſten after the incarnacion .C.lxii. yere.</p>
+               <p>¶ Saynt katheryne was martyred by Maxenciꝰ Empero<hi rend="sup">r</hi> of Rome in y<hi rend="sup">e</hi> tyme y<hi rend="sup">t</hi> Conſtantyne ſaynt Elynſonne was kynge of Brytayn<g ref="char:cmbAbbrStroke">̄</g> after the Incar<g ref="char:EOLhyphen"/>nacion .CC.lii. yere.</p>
+               <p>¶ Saynte Vrſula / with the .xi.M. virgins were martyred at Coleyn: by a Saraſyn that was called Swane y<hi rend="sup">e</hi> whiche was kynge of Coleyn in y<hi rend="sup">t</hi> tyme that Maxymyan was kynge of Brytayn<g ref="char:cmbAbbrStroke">̄</g>: after the Incarnacion .CC.lxxxxvii. yeres.</p>
+               <p>¶ Saynte Abon was martyred / by the foreſayde Swane in the tyme of Maxymyan: after the In<g ref="char:EOLhyphen"/>carnacion .CCC.i. yere.</p>
+               <p>¶ Saynt Gregory the pope / ſente into Englande ſaynt Auguſtyne after the Incarnacion .CCCCC.lxxxxvi. yere.</p>
+               <p>¶ Saynt Edmunde the kynge was martyred / by Hungar and Hubba of De<g ref="char:cmbAbbrStroke">̄</g>marke: in tyme that firſt Alured was kynge of Englande: after the Incarna<g ref="char:EOLunhyphen"/>cion .viii.C.lxx. yeres.</p>
+               <p>¶ Saynt Edwarde the martyr / was martyred by
+<pb facs="tcp:27599:3"/>
+                  <!-- PDF PAGE 24 -->hys ſtepmother after the <abbr>Incarnac</abbr> .ix.C.lxxx. ye.</p>
+               <p>¶ Saynt Edwarde the confeſſo<hi rend="sup">r</hi> was quycke and deed in the yere of grace .M.lxvi. yeres.</p>
+               <p>¶ Saynt Edmunde the kynge was tranſlated the tyme that Wyllya<g ref="char:cmbAbbrStroke">̄</g> Ruphus was kynde of <abbr>England</abbr> the yere of grace .M.lxxxxvi. yeres.</p>
+               <p>¶ Saynt Edwarde the confeſſour was tranſlated by ſaynte Thomas of Caunturbury in the tyme of kynge Henry .ii. yere of grace.</p>
+               <p>¶ Saynt Thomas of Caunturbury was marty<g ref="char:EOLhyphen"/>red in the ſame kynge <abbr>Henr</abbr> tyme in the yere of gra<g ref="char:EOLhyphen"/>ce .M.C.lxx. <abbr>yer</abbr>.</p>
+               <p>¶ The ſame ſaynte Thomas was traunſlated in the tyme of kynge Henry in the yere of grace .M.CC.xx. yeres.</p>
+            </div>
+            <div type="part">
+               <head>¶ Theſe ben the Cronycles of the kynges that haue ben / ſyth Brute came into this lande fyrſte.</head>
+               <p>¶Brute came into this lande after the makynge of the worlde .iiii.M.lxxvii. yeres. And he lyued i<g ref="char:cmbAbbrStroke">̄</g> the lande or he were crowned .xl. yere. And after he was crowned .xx. yeres.</p>
+               <p>¶Lotryn hys ſone .v. yeres.</p>
+               <p>¶Madan his ſone .xxx. yeres.</p>
+               <p>¶Ebranke his ſone .xl. yeres.</p>
+               <p>¶Leyle his ſone .ix. yeres.</p>
+               <p>¶Bladud his ſone .xxi. yeres.</p>
+               <p>¶Guentolyn his wyfe. xv. yeres.</p>
+               <p>¶Memps his ſone .xxiiii. yeres.</p>
+               <p>
+                  <pb facs="tcp:27599:4"/>
+                  <!-- PDF PAGE 25 -->
+¶Brute Bremenſhull .xxx. yere.</p>
+               <p>¶Ludebras .xiii. yere.</p>
+               <p>¶Lyre his ſone .xlviii. yere.</p>
+               <p>¶Credel his daughter .v. yere.</p>
+               <p>¶Conadage her ſuſter ſone .xxxiii. yere.</p>
+               <p>¶Reynolde his ſone .xx. yere.</p>
+               <p>¶Gorbodyan his ſone .xv. yere.</p>
+               <p>¶Denobaud wan the realme by co<g ref="char:cmbAbbrStroke">̄</g>queſt and reyg<g ref="char:EOLhyphen"/>ned .xl. yere.</p>
+               <p>¶Bellyn his ſone .xi. yere.</p>
+               <p>¶Cornabatrus his ſone .xxv. yere.</p>
+               <p>¶Guentolem his ſone .xxv. yere.</p>
+               <p>¶Sciſiſſe his ſone .xv. yere.</p>
+               <p>¶Kymore his ſone .xix. yere.</p>
+               <p>¶Morwych his ſone .ix. yere.</p>
+               <p>¶Grandobodyan his ſone .xi. yere.</p>
+               <p>¶Portagayle his ſone .xvi. yere.</p>
+               <p>¶Petitur his brother .v. yere.</p>
+               <p>¶Eſydur his brother .xiiii. yere.</p>
+            </div>
+            <div type="part">
+               <head>¶xxxiii. kyngꝰ reygned afterwarde.</head>
+               <p>¶Luke the laſt kyngꝰ ſone of .xxxiii. reygned .xi. ye.</p>
+               <p>¶Kaſſibalan his brother .xxvii. yere.</p>
+               <p>¶Andragen Luddes firſte ſone .viii. yere.</p>
+               <p>¶Kembolyn before the Incarnacion .ii. yere.</p>
+            </div>
+            <div type="part">
+               <head>¶The hole ſu<g ref="char:cmbAbbrStroke">̄</g>me fro the co<g ref="char:cmbAbbrStroke">̄</g>mynge of Brute tyll the Incarnacion .M.C.xxii. yere.</head>
+               <p>¶Grynder and Armogꝰ his .ii. ſones .xliiii. yere.</p>
+               <p>¶Koyle Armogꝰ his ſone .xli. yere.</p>
+               <p>¶Lucy his ſonne reygned an Hethenman .xi. yere.
+<pb facs="tcp:27599:4"/>
+                  <!-- PDF PAGE 25 -->and a Chriſten man .xi. yere.</p>
+               <p>¶And afterwarde was ſo great debate in y<hi rend="sup">e</hi> lande / that the realme was longe without a kynge l. yera.</p>
+               <p>¶Cole that made Colcheſter was kynge then .xiii. yeres.</p>
+               <p>¶Conſtantyne the Romayne / that weddyd ſaynte Elyn Coles daughter .xv. yere.</p>
+               <p>¶Conſtantyne that was Enꝑour his ſone .xx. <abbr>yer</abbr>.</p>
+               <p>¶Octauyan reygned after that Conſtantyne was gone to Rome to be crowned Emperour .xv. yeres.</p>
+               <p>¶Maximya<g ref="char:cmbAbbrStroke">̄</g> wedded Octauia<g ref="char:cmbAbbrStroke">̄</g>s daughter &amp; reyg<g ref="char:EOLhyphen"/>ned .xxviii. <abbr>yer</abbr>. in his tyme ſaynt Albon was ſlayne.</p>
+               <p>¶Conſta<g ref="char:cmbAbbrStroke">̄</g>tyne coſyn to the kynge of lytell Brytayn<g ref="char:cmbAbbrStroke">̄</g> reyned .xii. yere.</p>
+               <p>¶Conſtantyne his ſone that was a monke at Wyn<g ref="char:EOLhyphen"/>cheſter reygned .v. yere.</p>
+               <p>¶Forteger that was Erle of Eſſex reygned .xi. <abbr>yer</abbr>
+               </p>
+               <p>¶Fortymer his ſone .xiiii. yere.</p>
+               <p>¶Engyſt of Saxony in that lande of Iarmayn / y<hi rend="sup">t</hi> was a Saraſyn / wan the lande &amp; reygned .v. yere.</p>
+               <p>¶Aurylambros Conſtantynes ſonne ſlough En<g ref="char:EOLhyphen"/>gyſt / and droue the Saraſyns awaye / and reyg<g ref="char:EOLhyphen"/>ned .viii. yere.</p>
+               <p>¶Vter Pendragon his brother reygned .xvii. <abbr>yer</abbr>.</p>
+               <p>¶Arthur his ſone reygned .xxvi. yere.</p>
+               <p>¶Conſtantyne Arthurs coſyn .xxiiii. yere.</p>
+               <p>¶Guran for Conſtantyne had none heire .xxx. <abbr>yer</abbr>
+               </p>
+               <p>¶Tonagh his coſyn .xxiiii. yere.</p>
+               <p>¶Syryke reygned .xxv. <abbr>yer</abbr>.</p>
+               <p>¶Saynt Adelbert &amp; Sebert y<hi rend="sup">t</hi> were conuerted by ſaynt Auguſtyne &amp; his felowſhyp reygned .l. yere.</p>
+               <p>
+                  <pb facs="tcp:27599:5"/>
+                  <!-- PDF PAGE 26 -->
+¶Elfrede and Cadwaller / ſaynt <abbr>Oſwald</abbr> &amp; Cad<g ref="char:EOLhyphen"/>walyn reygned in the realme of <abbr>England</abbr> one after another. .lxxx. <abbr>yer</abbr>.</p>
+               <p>¶Off a ſaynt Oſwaldis brother .xlviii. yeres</p>
+               <p>¶Alured the fyrſte / in his tyme ſaynt Edmunde of Bury was ſlayne of Hungar and Hubba the kyngꝭ bretherne of Denmarke .xxx. yeres.</p>
+               <p>¶Edwarde the fyrſte his ſone .xxv. <abbr>yer</abbr>.</p>
+               <p>¶Edmunde his brother .xvii. yeres</p>
+               <p>¶Adelſtone. <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap>
+               </p>
+               <p>¶Eldrede his brother .x. <abbr>yer</abbr>
+               </p>
+               <p>¶Edwyn his thirde brother .iiii. yeres.</p>
+               <p>¶Edgar his ſone .xvii. <abbr>yer</abbr>.</p>
+               <p>¶Saynt Edwarde the martyr his ſon<g ref="char:cmbAbbrStroke">̄</g> .xii. yeres.</p>
+               <p>¶Swyn<g ref="char:cmbAbbrStroke">̄</g> that was kynge of Denmarke .xv. <abbr>yer</abbr>.</p>
+               <p>¶Eldrede ſaynt Edwardes Brother ix. yere.</p>
+               <p>¶Edmunde Irenſyd &amp; Knowt Swyn<g ref="char:cmbAbbrStroke">̄</g>ſon<g ref="char:cmbAbbrStroke">̄</g> .xx. <abbr>yer</abbr>
+               </p>
+               <p>¶Harolde harefote knowte ſon xiii. <abbr>yer</abbr>.</p>
+               <p>¶Hardeknowte his brother .xvi. yeres.</p>
+               <p>¶Saynte Edwarde the confeſſour <abbr>Eldred</abbr> ſonne reygned .xxiii. yeres.</p>
+               <p>¶Harolde / that was Godwyn ſonne Erle of <abbr>weſt<g ref="char:EOLhyphen"/>ſex</abbr> reygned .i. yere.</p>
+            </div>
+            <trailer>¶Here endeth y<hi rend="sup">e</hi> cronycle of the kyngꝭ that reygned before the conqueſt.</trailer>
+         </div>
+         <div type="rhyming_chronicle_of_post-Conquest_kings_of_Britain">
+            <div type="part">
+               <pb facs="tcp:27599:5"/>
+               <!-- PDF PAGE 26 -->
+               <head>¶The cronycle of all the kynges names that haue reygned in Englande ſyth the conqueſt of Wyllyam Conquerour.</head>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <pb facs="tcp:27599:6"/>
+                  <!-- PDF PAGE 27 -->
+                  <l>¶This myghty Wyllyam Duke of Normandye</l>
+                  <l>As bokes olde make menſion</l>
+                  <l>By iuſte title and by his chiualrye</l>
+                  <l>Made kynge by conqueſt of Brutes Albion</l>
+                  <l>Put out Harolde / and toke poſſeſſion</l>
+                  <l>Bare his crowne full .xxi. yere</l>
+                  <l>Buryed at Cane. thus ſayth the cronycolere.</l>
+               </lg>
+               <lg>
+                  <l>Nexte hym in ordre by ſucceſſion</l>
+                  <l>Wyllyam Rufus his ſo<g ref="char:cmbAbbrStroke">̄</g>ne crowned kynge</l>
+                  <l>Whiche to godwarde had no deuocyon</l>
+                  <l>Diſtroyed churche of newe and olde buyldynge</l>
+                  <l>To make a foreſt pleſaunt for huntynge</l>
+                  <l>xiiii. yere bare his crowne in dede</l>
+                  <l>Buryed at Wyncheſter: the cronycle ye may rede.</l>
+               </lg>
+               <lg>
+                  <l>His brother next / called the fyrſte Henry</l>
+                  <l>Was at London crowned / as I fynde</l>
+                  <l>Whoſe brother Robert / duke of Normandye</l>
+                  <l>Gaue hym war<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>: the cronycle maketh mynde</l>
+                  <l>Rcconcyled: all rancour ſet behynde</l>
+                  <l>Full .xxxvi. yere (by recorde of wryttynge)</l>
+                  <l>He reygned: and buryed at Redynge.</l>
+               </lg>
+               <lg>
+                  <l>His coſyn Stephen / whan Henry y<hi rend="sup">e</hi> fyrſt was deed</l>
+                  <l>Towarde Englande / gan to croſſe his ſayle</l>
+                  <l>The Archebyſſhop ſet vpon his heed.</l>
+                  <l>A ryche crowne: beynge of his counſayle</l>
+                  <l>xix. yere with ſorowe and great trauayle</l>
+                  <l>Bare his crowne and had neuer reſt</l>
+                  <l>At Feuerſham lyeth buryed in a cheſte.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:27599:6" rendition="simple:additions"/>
+                  <!-- PDF PAGE 27 -->
+                  <l>Henry the ſeconde ſonne of the empres</l>
+                  <l>Was next crowned: a full comely knyght</l>
+                  <l>As bokes olde playnly do expreſſe</l>
+                  <l>Thys ſayd Henry by frowarde force and myght</l>
+                  <l>Slewe ſaynt Thomas for the churches ryght</l>
+                  <l>xxxv. yere he reygned: as it is made mynde</l>
+                  <l>At Founteuerarde lyth buryed: as I fynde</l>
+               </lg>
+               <lg>
+                  <l>Rycharde his ſonne next by ſucceſſion</l>
+                  <l>Fyrſte of the name ſtronge / harde / and notable</l>
+                  <l>Was crowned kynge / called cure de lyon</l>
+                  <l>With Saraſyns heed is ſerued at his table</l>
+                  <l>Slayne at Talus / by deth lamentable</l>
+                  <l>He reygned fully the ſpace of .ix. yere</l>
+                  <l>His hert kuryed at Rone at the hygh autere</l>
+               </lg>
+               <lg>
+                  <l>Next kynge Rycharde reygned his brother Iohn</l>
+                  <l>After ſoone entred into Fraunce</l>
+                  <l>Loſt all Angie and Normandye anon</l>
+                  <l>This lande enterdyted by his gouernaunce</l>
+                  <l>And as it is put in rememberaunce</l>
+                  <l>xviii. yere kynge of this Regyon</l>
+                  <l>Lyeth at Worceſter / dyed of poyſon.</l>
+               </lg>
+               <lg>
+                  <l>Henry the .iii. his ſone of .ix. yere of age</l>
+                  <l>Was at Glouceſtre crowned as I rede</l>
+                  <l>Longe <abbr>warr</abbr> he had with his baronage</l>
+                  <l>Greatly delyted in almeſdede</l>
+                  <l>lvi.yere: he reygned here in dede</l>
+                  <l>Buryed at Weſtmynſter by recorde of wryttynge.</l>
+                  <l>Day of ſaynt Edmunde made martyr and kynge</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:27599:7"/>
+                  <!-- PDF PAGE 28 -->
+                  <l>Edwarde the firſte with the ſhankes longe</l>
+                  <l>Was after crowned that was ſo good a knyght</l>
+                  <l>Wanne Scotlande / maugre the Scottes ſtronge</l>
+                  <l>And all Walys diſpyte of all theyr myght</l>
+                  <l>Duryd his lyfe maynteyned trewth and ryght</l>
+                  <l>xxxv. yere he was here kynge</l>
+                  <l>Lyth at Weſtmynſter / this is treuth &amp; no leſynge.</l>
+               </lg>
+               <lg>
+                  <l>Edwarde his ſo<g ref="char:cmbAbbrStroke">̄</g>ne called Carnaruane</l>
+                  <l>Succyde after to make his alyaunce</l>
+                  <l>As the cronycle wel reherſe cane</l>
+                  <l>Weddyd the daughter of the kynge of Fraunce</l>
+                  <l>On Thomas Lancaſter by deth he toke vengeau<g ref="char:cmbAbbrStroke">̄</g>ce</l>
+                  <l>xix. yere here / he helde his regalye</l>
+                  <l>Buryed at Gloceſtre / as bokes ſpecifye.</l>
+               </lg>
+               <lg>
+                  <l>The thyrde Edwarde / borne at wynſore</l>
+                  <l>Whyche in <abbr>knyghthod</abbr> had ſo great a pris</l>
+                  <l>Enherytour of Fraunce withouten more</l>
+                  <l>Bare in his armys quartly .iii. flowerdelys</l>
+                  <l>And he gate Calys by his prudent deuyce</l>
+                  <l>Reygned in Englande .li. yere</l>
+                  <l>Lyth at Weſtmynſter. thus ſayth the cronycolere.</l>
+               </lg>
+               <lg>
+                  <l>So<g ref="char:cmbAbbrStroke">̄</g>ne of prynce Edwarde / <abbr>Rychard</abbr> the ſecou<g ref="char:cmbAbbrStroke">̄</g>de</l>
+                  <l>In whoſe tyme was peas great plente</l>
+                  <l>Wedded quyne Anne of Ceume as it is founde</l>
+                  <l>Iſabell after of Fraunce / who lyſt ſe</l>
+                  <l>xxii. yere he reygned here parde</l>
+                  <l>At Langley buryed / fyrſte ſo ſtode the caſe</l>
+                  <l>After to Weſtmynſter his body caryed was</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:27599:7"/>
+                  <!-- PDF PAGE 28 -->
+                  <l>Henry the .iiii. next crowned in certeyne</l>
+                  <l>A famous knyght / and of great ſembleneſſe</l>
+                  <l>From his exyle whan he came whome agayne</l>
+                  <l>Trauayled after with <abbr>warr</abbr> and great ſykeneſſe</l>
+                  <l>xiiii. yere he reygned in ſouthneſſe</l>
+                  <l>Lyth at Cau<g ref="char:cmbAbbrStroke">̄</g>terbury in that holy place</l>
+                  <l>God of his mercy do his ſoule grace.</l>
+               </lg>
+               <lg>
+                  <l>The .v. Henry of <abbr>knyghthod</abbr> 
+                     <abbr>lodſterr</abbr>
+                  </l>
+                  <l>Wyſe and ryght manly playnly to termyne</l>
+                  <l>Ryght fortunate proued in peas and <abbr>warr</abbr>
+                  </l>
+                  <l>Greatly expert in marcyal diſplyne</l>
+                  <l>Able to ſtande amonge the worthys nyne.</l>
+                  <l>Reygned .x. yere / who ſo lyſt haue regarde</l>
+                  <l>Lyth at Weſtmynſter nat <abbr>farr</abbr> fro<g ref="char:cmbAbbrStroke">̄</g> ſaynt Edwarde.</l>
+               </lg>
+               <lg>
+                  <l>Henry the ſyxte / as I fynde by wryttynge</l>
+                  <l>Reygned iuſtly .xxxviii. yere</l>
+                  <l>Whyche was ryght holy and vertuous of lyuynge.</l>
+                  <l>And after hym: as it doth appere</l>
+                  <l>Reygned Edwarde the fourth. xxii. yere</l>
+                  <l>And one moneth: neyther laſſe nor more</l>
+                  <l>And both thoſe kyngeslye at Wynſore.</l>
+               </lg>
+               <lg>
+                  <l>After this .iiii. Edwarde: as it is acco<g ref="char:cmbAbbrStroke">̄</g>pted</l>
+                  <l>Reygned Edwarde the .v. of that name</l>
+                  <l>The whiche Edwarde was neuer crowned</l>
+                  <l>Who redeth the cronycle ſhall ſe the ſame</l>
+                  <l>And atter hym (myn acco<g ref="char:cmbAbbrStroke">̄</g>pte for to frame)</l>
+                  <l>Rycharde the thirde / reygned in certayne</l>
+                  <l>Two yere &amp; .ii. monethes: the cronycle ſayth playn.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:27599:8"/>
+                  <!-- PDF PAGE 29 -->
+                  <l>After whome reygned / that moſt noble kynge</l>
+                  <l>Henry the ſeuenth .xxiii. yere</l>
+                  <l>And .viii. monethes by <abbr>record</abbr> of wryttynge</l>
+                  <l>Whome his enemies drad both <abbr>farr</abbr> &amp; nere</l>
+                  <l>With whom all chriſten pryncis / as it doth appere</l>
+                  <l>In his actis: were glad to make bandꝭ of peas</l>
+                  <l>And for to lyue in quiete / reſte / and eas.</l>
+               </lg>
+               <lg>
+                  <l>Whiche prudent prynce / of April the .xxi. day</l>
+                  <l>Departed this worlde by deuyne ordynau<g ref="char:cmbAbbrStroke">̄</g>ce.</l>
+                  <l>For whom many one ſayd / alas and welway</l>
+                  <l>With lamentable teres and woful ſemblau<g ref="char:cmbAbbrStroke">̄</g>ce</l>
+                  <l>Blamed Athropos for all theyr greuaunce</l>
+                  <l>And ſpecially the comons ſorowed for theyr kynge</l>
+                  <l>But nothynge auayled theyr lachrymable wepyng.</l>
+               </lg>
+               <lg>
+                  <l>Moche was the dolour of great and ſmalle</l>
+                  <l>Hys deth ryght greuous to vs euerychone</l>
+                  <l>For in his tyme we were drede ouer all</l>
+                  <l>yet vs to reco<g ref="char:cmbAbbrStroke">̄</g>fort / and to be <abbr>our</abbr> champyon</l>
+                  <l>He lefte behynd hym the myghty Sypton</l>
+                  <l>Hys only ſo<g ref="char:cmbAbbrStroke">̄</g>ne / the eyght kynge Henry</l>
+                  <l>Of great hardy corage / Ector the worthy.</l>
+               </lg>
+               <lg>
+                  <l>Whyche myghty prynce ſhortly to determyne</l>
+                  <l>The .xxii. day of April / began to rayne</l>
+                  <l>(Anno domini. M.D. and nyne)</l>
+                  <l>Ouer <abbr>England</abbr> / ſumtyme named Brytayne</l>
+                  <l>The .xxiiii. day of Iune after / in certayne</l>
+                  <l>(With all the nobles of ſpiritual &amp; te<g ref="char:cmbAbbrStroke">̄</g>poralte)</l>
+                  <l>Crowned he was / with tryu<g ref="char:cmbAbbrStroke">̄</g>p he and ſole<g ref="char:cmbAbbrStroke">̄</g>pnyte.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:27599:8"/>
+                  <!-- PDF PAGE 29 -->
+                  <l>And here wyll I leue hym as a conquerour</l>
+                  <l>Saylynge forth (a prynce inuictiſſimus)</l>
+                  <l>Within the ſhyp / of hygh and great honour</l>
+                  <l>Whiche grace gydeth from all thynges perillous</l>
+                  <l>With .iiii. quarter maiſters moſt famous</l>
+                  <l>Called Iuſtice / Prudence / and Temperau<g ref="char:cmbAbbrStroke">̄</g>ce</l>
+                  <l>And ſtronge Force / all them doth auaunce.</l>
+               </lg>
+            </div>
+            <trailer>¶Finis.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Thus endeth the cronycle of al the kynges names / that haue reygned in Englande. ſith y<hi rend="sup">e</hi> comynge of Wyllya<g ref="char:cmbAbbrStroke">̄</g> Conque<g ref="char:EOLhyphen"/>rour: &amp; how longe they reygned. Imprinted by <abbr>Rychard</abbr> Pyn<g ref="char:EOLunhyphen"/>ſon / Prynter vnto the kynges noble grace.</p>
+            <p>⸪</p>
+         </div>
+         <div xml:lang="lat" type="license">
+            <p>Cum priuilegio</p>
+         </div>
+      </back>
+   </text>
+</TEI>
